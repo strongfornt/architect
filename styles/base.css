@@ -243,6 +243,7 @@ img {
     margin-left: 0;
   }
   .feature-content {
+    width: 100%;
     padding: 0;
     text-align: center;
     margin-top: 2rem;
@@ -250,24 +251,38 @@ img {
   .feature-content-title-two {
     padding: 40px;
   }
+  /* .exprience-content{
+    padding: 0;
+    margin-right: 10px;
+    padding: 20px ;
+  } */
   .exprience-content-header{
-   
-    width: 450px;
+  
+    width: 400px;
+    padding-right: 20px;
+    
   }
   .exprience {
     flex-direction: column;
   }
   .exprience-content-des {
-    width: 450px;
+    width: 100%;
+   
+    padding: 5px;
     
    
   }
   .exprience-content-card {
-    width: 380px;
+    width: 95%;
+    padding: 20px 10px;
   }
   .exprience-content {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .exprience-content-title-one{
+    padding: 10px;
+    padding-left:5px ;
   }
   .banner-img {
     display: flex;
@@ -275,7 +290,7 @@ img {
     margin-left: 0 auto;
   }
   .exprience-img-child {
-    left: 30px;
+    left: 23px;
     bottom: 60px;
   }
 }
