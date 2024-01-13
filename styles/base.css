@@ -253,6 +253,11 @@ img {
   .exprience {
     flex-direction: column;
   }
+  .exprience-content-des {
+    width: 450px;
+    
+   
+  }
   .exprience-content-card {
     width: 380px;
   }
