@@ -248,7 +248,11 @@ img {
     margin-top: 2rem;
   }
   .feature-content-title-two {
-    padding: 10px;
+    padding: 40px;
+  }
+  .exprience-content-header{
+   
+    width: 450px;
   }
   .exprience {
     flex-direction: column;
